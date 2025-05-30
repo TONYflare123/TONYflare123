@@ -21,7 +21,7 @@ I craft **high-efficiency game systems** that humiliate bloated industry standar
 > *"Pineapple on pizza is a war crime."*  
 
 ### 🤝 Allies & Inspirations  
-- **@FlaxEngine** (Flax Engine’s architect)
+- **@Mafiesto4** (Flax Engine’s architect)
 
 ### 📫 How to Provoke Me  
 - **Discord:** `FlareX`
