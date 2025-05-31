@@ -22,9 +22,8 @@ I craft **high-efficiency game systems** that humiliate bloated industry standar
 
 ### 🤝 Allies & Inspirations  
 - **@Mafiesto4** (Flax Engine’s architect)
+- **@plasmarad** (The save system expert)
 
 ### 📫 How to Provoke Me  
 - **Discord:** `FlareX`
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlareX&show_icons=true&theme=radical)  
-
-*"Code wins arguments."*  
+*"Code wins arguments."*
