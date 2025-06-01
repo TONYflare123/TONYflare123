@@ -5,7 +5,7 @@
 I craft **high-efficiency game systems** that humiliate bloated industry standards. My tools are **Flax Engine, C#, and sheer audacity**.  
 
 ### 🔥 Current Projects  
-- **[TruIK](https://github.com/FlareX/TruIK)** - *Procedural foot IK that doesn’t suck* (WIP)  
+- **[TruIK](https://github.com/TONYflare123/TruIK)** - *Procedural foot IK that doesn’t suck*
 - **[TruAI](https://github.com/FlareX/TruAI)** - *NavMesh-free squad intelligence* (WIP)  
 - **[LDDGI](https://github.com/FlareX/LDDGI)** - *Dynamic lighting for peasants* (WIP, Hybrid lightmap-DDGI)  
 
