@@ -13,7 +13,7 @@ I craft **high-efficiency game systems** that humiliate bloated industry standar
 - **Flax Engine** (My spiritual successor to Fox Engine)  
 - **C#** (Like Java, but without the shame)  
 - **Python** (Why do I exist?) 
-- **Git** (Because merging is a bloodsport)  
+- **Java** (Only cuz they teach em. And it is similiar to C#)  
 
 ### 📜 Manifesto  
 > *"If your engine needs 32GB RAM to render a cube, you’ve failed."*  
